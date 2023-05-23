@@ -1,2 +1,2 @@
 # portfolio
-Mi-Kyung "Miki" Bahng's Portfolio
+Mi-Kyung "Miki" Bahng's Portfolio @ https://mikibahng.github.io/portfolio/
